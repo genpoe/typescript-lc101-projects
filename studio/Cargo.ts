@@ -1,6 +1,6 @@
 import { Payload } from './Payload';
 
-class Cargo {
+export class Cargo {
     massKg: number;
     material: string;
 
